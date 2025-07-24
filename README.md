@@ -117,17 +117,6 @@ Frontend will run on http://localhost:5173
 
 Pull requests are welcome! If you'd like to add features or report bugs, feel free to fork the repo or open issues.
 
----
-
-## 🛡️ License
-
-MIT License. Free to use and modify.
-
----
-
-## 📩 Contact
-
-Made with 💙 by [Your Name]
 
 ---
 
